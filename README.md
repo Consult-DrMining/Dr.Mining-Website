@@ -78,4 +78,4 @@ This project is open source and available under the MIT License.
 
 Live Demo
 
-Simply open the index.html file in any modern web browser to view the website.
+Simply open the 1.html file in any modern web browser to view the website.
